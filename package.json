@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-upload",
+  "version": "0.0.1",
+  "description": "html5 uploader and iframe uploader.",
+  "author": "julian",
+  "keywords": [
+    "utility",
+    "upload",
+    "ajax upload",
+    "iframe upload"
+  ],
+  "devDependencies": {
+    "node-static": "*"
+  }, 
+  "licenses": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
